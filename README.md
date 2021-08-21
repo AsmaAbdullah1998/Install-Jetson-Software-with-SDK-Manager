@@ -40,9 +40,9 @@ UBUNTU_CODENAME=bionic
 <img width="1036" alt="image" src="https://user-images.githubusercontent.com/66702376/130318894-9311aec7-e858-4ca8-a040-2871f80dbf47.png">
 
 ## 5. Hardware Connection 
-* SD card to laptop 
-* Micro USB of Jetson to laptop 
-* Power Jetson 
+- [X]  SD card to laptop 
+- [X]  Micro USB of Jetson to laptop 
+- [X] Power Jetson 
 
 ![sdkm-3-install-details-jetpack 02](https://user-images.githubusercontent.com/66702376/130319230-8cd42e5a-5b06-44b8-95de-224b6e4799eb.png)
 
