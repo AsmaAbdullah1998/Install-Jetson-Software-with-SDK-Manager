@@ -44,8 +44,7 @@ UBUNTU_CODENAME=bionic
 - [X]  Micro USB of Jetson to laptop 
 - [X] Power Jetson 
 
-![sdkm-3-install-details-jetpack 02](https://user-images.githubusercontent.com/66702376/130319230-8cd42e5a-5b06-44b8-95de-224b6e4799eb.png)
-
+![2021-08-21 13 59 32](https://user-images.githubusercontent.com/66702376/130319664-99bab4ce-2b03-4655-b28b-bb8000a8de40.jpg)
 
 
 
